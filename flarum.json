@@ -16,8 +16,8 @@
         "flarum": ">0.1.0-beta"
     },
     "icon": {
-        "name": "",
-        "backgroundColor": "",
-        "color": ""
+        "name": "chain-broken",
+        "backgroundColor": "#222",
+        "color": "#fff"
     }
 }
